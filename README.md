@@ -5,7 +5,6 @@
 This project is a simple clone of the Netflix landing page, built using HTML and CSS. It aims to replicate the basic layout and styling of the Netflix website's initial sign-up screen.
 
 
-![Netflix](https://github.com/webwithsufi/Netflix/blob/main/Screenshot.png?raw=true)
 
 ## Features
 
